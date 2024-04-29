@@ -207,9 +207,9 @@
   <tr>
     <td></td>
     <td align="left">Мови</td>
-    <td>1</td>
     <td>⚫</td>
     <td>⚫</td>
+    <td>40+</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
@@ -217,9 +217,9 @@
   <tr>
     <td></td>
     <td align="left">Вартість</td>
-    <td>0</td>
     <td>⚫</td>
     <td>⚫</td>
+    <td>🟢</td>
     <td>⚫</td>
     <td>⚫</td>
     <td>⚫</td>
