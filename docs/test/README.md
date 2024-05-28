@@ -5,37 +5,26 @@
 ### GET
 
 #### Пошук 
-![alt text](./images/userid.png)
+![alt text](./media/user_id.png)
 
 
 ### POST 
 #### Перед запитом
-![alt text](./images/allrequest.png)
+![alt text](./media/all_requests.png)
 
 #### Запит
-![alt text](./images/addrequest.png)
-
-#### Після запиту
-![alt text](./images/allrequestafter.png)
+![alt text](./media/new_request.png)
 
 ### PUT
 
 #### Перед запитом
-![alt text](./images/allusers.png)
+![alt text](./media/all_users.png)
 
 #### Запит
-![alt text](./images/updateuser.png)
-
-#### Після запиту
-![alt text](./images/allusersafter.png)
+![alt text](./media/user_update.png)
 
 ### DELETE
 
-#### Перед запитом
-![alt text](./images/allusersafter.png)
-
 #### Запит
-![alt text](./images/deleteuser.png)
+![alt text](./media/user_delete.png)
 
-#### Після запиту
-![alt text](./images/allusersafter2.png)
